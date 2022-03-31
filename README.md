@@ -28,11 +28,11 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 ## 🔖 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/nasimrana1725/facial-expression-detection">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=facial-expression-detection&theme=graywhite" />
+  <a href="https://github.com/nasimrana1725/order-api-repository-pattern-With-Laravel">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=order-api-repository-pattern-With-Laravel&theme=graywhite" />
   </a>
-  <a href="https://github.com/nasimrana1725/python-interactive-dashboard">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=python-interactive-dashboard&theme=graywhite" />
+  <a href="https://github.com/nasimrana1725/E-Commerce-with-Bagisto">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=E-Commerce-with-Bagisto&theme=graywhite" />
   </a>
 </p>
 
@@ -40,9 +40,9 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 
 <p align="center">
  <a href="http://golamsaroar.com/">
-  <img src="https://img.shields.io/badge/nasimrana1725.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/nasimrana.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/nasimrana1725/">
+ <a href="https://www.linkedin.com/in/nasim1725/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://join.skype.com/invite/kMn3ZnbRcdFS">

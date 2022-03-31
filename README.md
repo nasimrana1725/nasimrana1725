@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/github/last-commit/golamSaroar/golamsaroar">
- <a href="https://gist.github.com/golamSaroar"><img src="https://badges.pufler.dev/gists/golamsaroar"></a>
- <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://img.shields.io/github/stars/golamSaroar?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
- <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
+ <img src="https://img.shields.io/github/last-commit/nasimrana1725/nasimrana1725">
+ <a href="https://gist.github.com/nasimrana1725"><img src="https://badges.pufler.dev/gists/nasimrana1725"></a>
+ <a href="https://github.com/nasimrana1725?tab=repositories"><img src="https://img.shields.io/github/stars/nasimrana1725?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
+ <a href="https://github.com/nasimrana1725/?tab=followers"><img src="https://img.shields.io/github/followers/nasimrana1725?label=Followers&color=success"></a>
 </p>
 
 I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At present, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked for four years as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
@@ -21,18 +21,18 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 - 📖 Passionate reader of Bengali literature.
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golamsaroar&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamsaroar&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasimrana1725&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrana1725&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
 </p>
 
 ## 🔖 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/golamSaroar/facial-expression-detection">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
+  <a href="https://github.com/nasimrana1725/facial-expression-detection">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=facial-expression-detection&theme=graywhite" />
   </a>
-  <a href="https://github.com/golamSaroar/python-interactive-dashboard">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
+  <a href="https://github.com/nasimrana1725/python-interactive-dashboard">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=python-interactive-dashboard&theme=graywhite" />
   </a>
 </p>
 
@@ -40,15 +40,15 @@ I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: A
 
 <p align="center">
  <a href="http://golamsaroar.com/">
-  <img src="https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/nasimrana1725.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/iamsaroar/">
+ <a href="https://www.linkedin.com/in/nasimrana1725/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <a href="https://join.skype.com/invite/kMn3ZnbRcdFS">
   <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
  </a>
- <a href="mailto:emailsaroar@gmail.com">
+ <a href="mailto:nasimrana69@gmail.com">
   <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
  </a>
 </p>

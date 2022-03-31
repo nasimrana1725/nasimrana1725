@@ -1,45 +1,118 @@
+<p align="center">
+ <img src="https://raw.githubusercontent.com/golamSaroar/golamsaroar/master/cover.png" alt="Sk Golam Saroar">
+</p>
 
-<h3> < Hello World, I'm <a href="https://facebook.com/cmt.imran" target="_blank"> Nasim Rana</a> /></h3><br>
-I am a final year CSE student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. <br> <br>
+<p align="center">
+ <img src="https://img.shields.io/github/last-commit/golamSaroar/golamsaroar">
+ <a href="https://gist.github.com/golamSaroar"><img src="https://badges.pufler.dev/gists/golamsaroar"></a>
+ <a href="https://github.com/golamSaroar?tab=repositories"><img src="https://img.shields.io/github/stars/golamSaroar?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
+ <a href="https://github.com/golamsaroar/?tab=followers"><img src="https://img.shields.io/github/followers/golamsaroar?label=Followers&color=success"></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nasim_Rana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasim1725/)](https://www.linkedin.com/in/nasim1725/) [![Gmail Badge](https://img.shields.io/badge/-nasimrana69@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasimrana69@gmail.com)](mailto:nasimrana69@gmail.com)
+I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At present, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked for four years as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
 
-<br/>
-##### A little more about me...  
+## 🌯 Summary
 
-```javascript
-const Imran = {
-  Pronouns: "she" | "her",
-  Description : [Passionate, Optimistic, 
-                Bibliophile, Tech enthusiast  
-                and a lot more ],
-  Education : 
-           [ 
-           { University: Daffodil International University}, 
-           { Collge: Government Science Collage}
-           ],
- Experience : ['Sr. Executive @ NICE Software']
-}
+- 💻 Currently doing my Master's at York University, learning something new every day.
+- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Git, and more.
+- 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
+- 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
+- 🌱 Currently learning [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+- 📖 Passionate reader of Bengali literature.
+
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=golamsaroar&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamsaroar&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
+</p>
+
+## 🔖 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/golamSaroar/facial-expression-detection">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=facial-expression-detection&theme=graywhite" />
+  </a>
+  <a href="https://github.com/golamSaroar/python-interactive-dashboard">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=golamsaroar&repo=python-interactive-dashboard&theme=graywhite" />
+  </a>
+</p>
+
+## 📫 How to Reach Me
+
+<p align="center">
+ <a href="http://golamsaroar.com/">
+  <img src="https://img.shields.io/badge/golamsaroar.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/iamsaroar/">
+  <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+ <a href="https://join.skype.com/invite/kMn3ZnbRcdFS">
+  <img src="https://img.shields.io/badge/chat-%2300AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+ </a>
+ <a href="mailto:emailsaroar@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23C14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
+ </a>
+</p>
+
+## 📈 My Programming Stats
+
+<p align="center">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+🌆 Daytime    102 commits    ████████░░░░░░░░░░░░░░░░░   32.28% 
+🌃 Evening    91 commits     ███████░░░░░░░░░░░░░░░░░░   28.8% 
+🌙 Night      76 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
+Thursday     90 commits     ███████░░░░░░░░░░░░░░░░░░   28.48% 
+Friday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
+Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Sunday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
+
 ```
 
 
-### :Computer: Languages that I can speak
-* Front-end development :  Bootstrap, Laravel
-* Backend development : MsSQL, MySQL
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SQL                      2 hrs 38 mins       ████████████████████████░   96.38% 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         29 repos            ███████████████░░░░░░░░░░   60.42% 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
 
 
 
- <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  <img src = 'https://image.flaticon.com/icons/png/512/2306/2306154.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ Last Updated on 21/08/2021
+<!--END_SECTION:waka-->
 
-<br><br>
-<p align="center"> 
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nasimrana1725&theme=tokyonight&show_icons=true" alt="Imran's Github Stats" />
-</p>
-<p align="left">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrana1725&theme=synthwave">
-  <img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=nasimrana1725&theme=synthwave">
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nasimrana1725&bg_color=#0438cd&color=E5289E&line=DA5B0B&point=E1E8EB">
-</p>
+## :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#19](https://github.com/puf17640/git-badges/issues/19) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+<!--END_SECTION:activity-->

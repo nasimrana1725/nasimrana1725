@@ -9,15 +9,15 @@
  <a href="https://github.com/nasimrana1725/?tab=followers"><img src="https://img.shields.io/github/followers/nasimrana1725?label=Followers&color=success"></a>
 </p>
 
-I am from Bangladesh 🇧🇩 — currently living in Toronto, Canada :canada: At present, I am a Master's student in the Computer Science program at York University. I am also working as a Graduate Research Assistant and a Teaching Assistant at the university. Previously I worked for four years as a Software Engineer at <a href="https://github.com/DSInnovators">@DSInnovators</a>.
+I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am working as a Assistant Software Engineer in TMSS ICT Limited <a href="https://github.com/tmssictsoft">. Previously I have completed my Bsc in Software Engiinering from Dafodil International University.
 
 ## 🌯 Summary
 
-- 💻 Currently doing my Master's at York University, learning something new every day.
-- 👨🏼‍💻 Skilled in Python, Java, JavaScript, SQL, Tensorflow, AWS, Docker, Git, and more.
-- 👀 Looking to collaborate on projects related to deep learning in image recognition and natural language processing.
-- 💬 Open to questions about software engineering, machine learning, data science, as well as projects I've worked on.
-- 🌱 Currently learning [Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+- 💻 Currently working as a Assistant Software Engineer, learning something new every day.
+- 👨🏼‍💻 Skilled in PHP, Laravel, JavaScript, SQL, Vue JS, MySQL, Docker, Git, and more.
+- 👀 Looking to collaborate on projects related to deep learning in Data Science.
+- 💬 Open to questions about software engineering, data science, as well as projects I've worked on.
+- 🌱 Currently learning [Attention Models](https://www.coursera.org/professional-certificates/ibm-data-science#courses)
 - 📖 Passionate reader of Bengali literature.
 
 <p align = "center">

@@ -9,7 +9,8 @@
  <a href="https://github.com/nasimrana1725/?tab=followers"><img src="https://img.shields.io/github/followers/nasimrana1725?label=Followers&color=success"></a>
 </p>
 
-I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am working as a Assistant Software Engineer in TMSS ICT Limited <a href="https://github.com/tmssictsoft">. Previously I have completed my Bsc in Software Engiinering from Dafodil International University.
+I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am working as a Assistant Software Engineer in TMSS ICT Limited <a href="https://github.com/tmssictsoft">.
+ Previously I have completed my Bsc in Software Engiinering from Dafodil International University.
 
 ## 🌯 Summary
 

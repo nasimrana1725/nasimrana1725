@@ -4,7 +4,7 @@
 
 <p align="center">
  <img src="https://img.shields.io/github/last-commit/nasimrana1725/nasimrana1725">
-// <a href="https://gist.github.com/nasimrana1725"><img src="https://badges.pufler.dev/gists/nasimrana1725"></a>
+<-- <a href="https://gist.github.com/nasimrana1725"><img src="https://badges.pufler.dev/gists/nasimrana1725"></a> -->
  <a href="https://github.com/nasimrana1725?tab=repositories"><img src="https://img.shields.io/github/stars/nasimrana1725?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
  <a href="https://github.com/nasimrana1725/?tab=followers"><img src="https://img.shields.io/github/followers/nasimrana1725?label=Followers&color=success"></a>
 </p>

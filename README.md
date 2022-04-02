@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/nasimrana1725/nasimrana1725/main/97bn9x17t2oe4msq5rrt.webpg" alt="Sk Golam Saroar">
+ <img src="https://raw.githubusercontent.com/nasimrana1725/nasimrana1725/main/cover.jpg" alt="Nasim Rana">
 </p>
 
 <p align="center">

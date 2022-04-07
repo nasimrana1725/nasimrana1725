@@ -40,8 +40,8 @@ I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am wo
 ## 📫 How to Reach Me
 
 <p align="center">
- <a href="http://golamsaroar.com/">
-  <img src="https://img.shields.io/badge/nasimrana.com-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
+ <a href="http://nasimrana.xyz/">
+  <img src="https://img.shields.io/badge/nasimrana.xyz-%23206A5D.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/nasim1725/">
   <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

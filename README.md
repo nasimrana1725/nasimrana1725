@@ -4,40 +4,62 @@
 
 <p align="center">
  <img src="https://img.shields.io/github/last-commit/nasimrana1725/nasimrana1725">
-<!-- <a href="https://gist.github.com/nasimrana1725"><img src="https://badges.pufler.dev/gists/nasimrana1725"></a> -->
  <a href="https://github.com/nasimrana1725?tab=repositories"><img src="https://img.shields.io/github/stars/nasimrana1725?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
  <a href="https://github.com/nasimrana1725/?tab=followers"><img src="https://img.shields.io/github/followers/nasimrana1725?label=Followers&color=success"></a>
 </p>
 
-I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am working as a Assistant Software Engineer in  <a href="https://github.com/tmssictsoft">TMSS ICT Limited</a>.
- Previously I have completed my Bsc in Software Engiinering from Dafodil International University.
+---
 
-## 🌯 Summary
+## 👋 Hello, I'm Nasim Rana  
 
-- 💻 Currently working as a Assistant Software Engineer, learning something new every day.
-- 👨🏼‍💻 Skilled in PHP, Laravel, JavaScript, SQL, Vue JS, MySQL, Docker, Git, and more.
-- 👀 Looking to collaborate on projects related to deep learning in Data Science.
-- 💬 Open to questions about software engineering, data science, as well as projects I've worked on.
-- 🌱 Currently learning [Attention Models](https://www.coursera.org/professional-certificates/ibm-data-science#courses)
-- 📖 Passionate reader of Bengali literature.
+I am from Bangladesh 🇧🇩 — currently based in Dhaka.  
+At present, I am working as a **Software Engineer (Full-Stack)**, leading a team of 5 in building ERP-like systems and large-scale applications.  
+I graduated in **Software Engineering** from *Daffodil International University (2021)*.  
 
-<p align = "center">
+---
+
+## 🌯 Summary  
+
+- 💻 Full-stack engineer with 5+ years’ experience in Laravel, Vue.js, and scalable systems.  
+- 👨🏼‍💻 Skilled in PHP, Laravel, Vue.js, MySQL, REST APIs, Git, Docker, AWS, and CI/CD.  
+- 🔒 Experienced in fintech and ERP solutions — security, large datasets, and fast reporting.  
+- 👀 Open to collaborations in **system design, microservices, and data-driven applications**.  
+- 🌱 Currently learning **System Design** & **AWS Cloud Infrastructure**.  
+- 📖 Passionate about travel, technology, and Bengali literature.  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasimrana1725&count_private=true&show_icons=true&theme=graywhite&line_height=27&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimrana1725&hide=jupyter%20notebook,html&theme=graywhite&hide_border=true">
 </p>
 
-## 🔖 Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasimrana1725&theme=graywhite&hide_border=true" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/nasimrana1725/order-api-repository-pattern-With-Laravel">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=order-api-repository-pattern-With-Laravel&theme=graywhite" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nasimrana1725&theme=gruvbox&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔖 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/nasimrana1725/Laravel-Vue-TodoApp">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=Laravel-Vue-TodoApp&theme=graywhite" />
   </a>
-  <a href="https://github.com/nasimrana1725/E-Commerce-with-Bagisto">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=E-Commerce-with-Bagisto&theme=graywhite" />
+  <a href="https://github.com/nasimrana1725/ERP-Apple-Business">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nasimrana1725&repo=ERP-Apple-Business&theme=graywhite" />
   </a>
 </p>
 
-## 📫 How to Reach Me
+---
+
+## 📫 How to Reach Me  
 
 <p align="center">
  <a href="http://nasimrana.xyz/">
@@ -54,66 +76,15 @@ I am from Bangladesh 🇧🇩 — currently living in Dhaka, At present, I am wo
  </a>
 </p>
 
-## 📈 My Programming Stats
+---
+
+## 📈 Fun Zone  
 
 <p align="center">
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 </p>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+✨ Always exploring new challenges in tech and beyond.  
+Let’s connect and build something impactful together 🚀  
 
-```text
-🌞 Morning    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-🌆 Daytime    102 commits    ████████░░░░░░░░░░░░░░░░░   32.28% 
-🌃 Evening    91 commits     ███████░░░░░░░░░░░░░░░░░░   28.8% 
-🌙 Night      76 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-Thursday     90 commits     ███████░░░░░░░░░░░░░░░░░░   28.48% 
-Friday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Sunday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.97%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-SQL                      2 hrs 38 mins       ████████████████████████░   96.38% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         29 repos            ███████████████░░░░░░░░░░   60.42% 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-
- Last Updated on 21/08/2021
-<!--END_SECTION:waka-->
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/puf17640/git-badges/issues/19) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-<!--END_SECTION:activity-->
+---
